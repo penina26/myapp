@@ -10,7 +10,7 @@ This repository contains a sample Node.js app and AWS configuration files for a 
 5. **Compute:** The ECS service serves the application behind an Application Load Balancer (ALB).
 
 ---
-
+![alt text](image.png)
 ## Project Evidence & Screenshots
 
 ### 1. Pipeline Architecture Diagram
